@@ -14,5 +14,5 @@ trying to verify run access without admin resources!
 see (add detailed release section link here) for more information
 
 ## Credits
-Owner/Creator: @malachi196 \
-Co-Owner/Co-Creator: @mas6y6
+Owner/Creator: @shadowmewtwogx2020 \
+Co-Owner/Co-Creator: @malachi196
